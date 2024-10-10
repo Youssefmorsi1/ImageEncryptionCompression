@@ -1,0 +1,61 @@
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.SuggestedBindingRedirects.cache
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\PROJECT\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\farid\Downloads\[1] Image Encryption and Compression\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+D:\computer science\third year\Second term\Algo\Project\[1] Image Encryption and Compression\Startup Code\[TEMPLATE]\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\farid\OneDrive\Desktop\ImageCompression&encryption\[1] Image Encryption and Compression\Startup Code\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe.config
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.exe
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\bin\Debug\ImageEncryptCompress.pdb
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.AssemblyReference.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.MainForm.resources
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.Properties.Resources.resources
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.GenerateResource.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.csproj.CoreCompileInputs.cache
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.exe
+C:\Users\ASUS TUF\Desktop\[TEMPLATE] ImageEncryptCompress (3)\[TEMPLATE] ImageEncryptCompress\ImageEncryptCompress\obj\Debug\ImageEncryptCompress.pdb
